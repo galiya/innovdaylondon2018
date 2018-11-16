@@ -16,6 +16,10 @@ Start here: https://github.com/farishaddad/Knowledge-Mining-using-Cognitive-Sear
 
 An introduction to the principles of DevOps and containerisation using Azure DevOps (previously VSTS) and the Azure Kubernetes Service. This lab borrows heavily from the excellent Azure DevOps Hands on Labs website, but adds in a bit more detail on some steps for users new to Cloud or Azure.
 
+This is what you will be building:
+
+<img src="screenshots\architecture.png" alt="Architecture" width=600px />
+
 Start here: https://github.com/CharleneMcKeown/DevOps-and-Containers
 
 ## Supercharge Bots with AI
