@@ -22,7 +22,7 @@ An introduction to the principles of DevOps and containerisation using Azure Dev
 
 This is what you will be building:
 
-<img src="https://github.com/CharleneMcKeown/DevOps-and-Containers/blob/master/screenshots/Architecture.PNG" alt="Architecture" width=600px />
+<img src="https://github.com/VRouetAtMS/DevOps-and-Containers/blob/master/screenshots/Architecture.PNG" alt="Architecture" width=600px />
 
 Start here: https://github.com/VRouetAtMS/DevOps-and-Containers/blob/master/README.md
 
