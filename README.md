@@ -1,4 +1,4 @@
-# Agency Innovation Day London 2018 - For the builders of the group !!!
+# Agency Innovation Day London 2018 Hackfest - For the builders of the group !!!
 The morning 3 hours hackfest is split into 3 tracks:
 1. Gain Insight Into Assets with AI
 2. Build a Modern Application on containers with CI/CD
@@ -14,7 +14,7 @@ Start here: https://github.com/farishaddad/Knowledge-Mining-using-Cognitive-Sear
 
 ## 2. Build a Modern Application on containers with CI/CD
 
-An introduction to the principles of DevOps and containerisation using Azure DevOps (previously VSTS) and the Azure Kubernetes Service. This lab borrows heavily from the excellent Azure DevOps Hands on Labs website, but adds in a bit more detail on some steps for users new to Cloud or Azure.
+An introduction to the principles of DevOps and containerisation using Azure DevOps (previously VSTS) and the Azure Kubernetes Service.
 
 This is what you will be building:
 
