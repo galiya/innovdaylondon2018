@@ -9,6 +9,9 @@ Choose the track you are most interested in. But don't worry, these are all publ
 ## Pre-requisites
 1. A computer/laptop
 2. An Azure subscription. If you do not have an Azure subscription you can create one for free at https://azure.microsoft.com/en-gb/free/
+3. For the part 2, you will need to install Azure CLI and kubectl to complete the lab :
+- [Install kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/) 
+- [install Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest).
 
 ## 1. Gain Insight Into Assets with AI
 
@@ -22,7 +25,7 @@ An introduction to the principles of DevOps and containerisation using Azure Dev
 
 This is what you will be building:
 
-<img src="https://github.com/VRouetAtMS/DevOps-and-Containers/blob/master/screenshots/Architecture.PNG" alt="Architecture" width=600px />
+<img src="https://github.com/CharleneMcKeown/DevOps-and-Containers/blob/master/screenshots/Azure%20Architecture.PNG" alt="Architecture" width=800px />
 
 Start here: https://github.com/VRouetAtMS/DevOps-and-Containers/blob/master/README.md
 
