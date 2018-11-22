@@ -11,7 +11,7 @@ Choose the track you are most interested in. But don't worry, these are all publ
 2. An Azure subscription. If you do not have an Azure subscription you can create one for free at https://azure.microsoft.com/en-gb/free/
 3. For the part 2, you will need to install Azure CLI and kubectl to complete the lab :
 - [Install kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/) 
-- [install Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest).
+- [Install Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
 
 ## 1. Gain Insight Into Assets with AI
 
