@@ -19,6 +19,8 @@ Building an Enterprise Cognitive Search Solution:
 
 Start here: https://github.com/farishaddad/Knowledge-Mining-using-Cognitive-Search/blob/master/readme.md
 
+![](new-architecture.png)
+
 ## 2. Build a Modern Application on containers with CI/CD
 
 An introduction to the principles of DevOps and containerisation using Azure DevOps (previously VSTS) and the Azure Kubernetes Service.
