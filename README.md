@@ -21,7 +21,7 @@ Start here: https://github.com/farishaddad/Knowledge-Mining-using-Cognitive-Sear
 
 ![](new-architecture.png)
 
-Note: for Lab 3, create a Virtual Machine with Visual Studio 2017 community edition already installed. Follow these [instructions in Task 1, 2 and 3](https://github.com/Microsoft/MCW-App-modernization/blob/master/Hands-on%20lab/Before%20the%20HOL%20-%20App%20modernization.md)
+Note: for Lab 3, create a Virtual Machine with Visual Studio 2017 community edition already installed. Follow [instructions in Tasks 1, 2 and 3 here](https://github.com/Microsoft/MCW-App-modernization/blob/master/Hands-on%20lab/Before%20the%20HOL%20-%20App%20modernization.md)
 
 ## 2. Build a Modern Application on containers with CI/CD
 
