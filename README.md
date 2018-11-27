@@ -10,14 +10,14 @@ Choose the track you are most interested in. But don't worry, these are all publ
 1. A computer/laptop
 2. An Azure subscription. If you do not have an Azure subscription you can create one for free at https://azure.microsoft.com/en-gb/free/
 3. For track 2, you will need to install Azure CLI and kubectl to complete the lab :
-- [Install kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/) 
-- [Install Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
+    - [Install kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/) 
+    - [Install Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
 
 ## 1. Gain Insight Into Assets with AI
 
 Building an Enterprise Cognitive Search Solution:
 
-Start here: https://github.com/farishaddad/Knowledge-Mining-using-Cognitive-Search/blob/master/readme.md
+Please start here: https://github.com/farishaddad/Knowledge-Mining-using-Cognitive-Search/blob/master/readme.md
 
 ![](new-architecture.png)
 
@@ -31,6 +31,14 @@ This is what you will be building:
 
 <img src="https://github.com/VRouetAtMS/DevOps-and-Containers/blob/master/screenshots/Azure%20Architecture.PNG" alt="Architecture" width=800px />
 
-Start here: https://github.com/VRouetAtMS/DevOps-and-Containers/blob/master/README.md
+Please start here: https://github.com/VRouetAtMS/DevOps-and-Containers/blob/master/README.md
 
 ## 3. Build a Bots with zero code
+
+In this challenge you can build your own knowledge bot (even if you don't have developer background) that can leverage Azure platform services, coupled with personality of the bot and comes through the answers provided to the users. 
+
+You could tackle this challenge as a group of 2-3 people, or on your own, if you prefer. 
+
+Please start here: https://github.com/galiya/BotWorkshop
+
+
