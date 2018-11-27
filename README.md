@@ -37,6 +37,8 @@ Please start here: https://github.com/VRouetAtMS/DevOps-and-Containers/blob/mast
 
 In this challenge you can build your own knowledge bot (even if you don't have developer background) that can leverage Azure platform services, coupled with personality of the bot and comes through the answers provided to the users. 
 
+![KnowledgeBot](https://github.com/galiya/BotWorkshop/blob/master/assets/images/BotZeroCode.png)
+
 You could tackle this challenge as a group of 2-3 people, or on your own, if you prefer. 
 
 Please start here: https://github.com/galiya/BotWorkshop
